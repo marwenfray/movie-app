@@ -38,7 +38,17 @@ font-size: 25px;
   color: whitesmoke;
 
 }
-
+.Search{
+  padding: 40px 0px;
+  display: flex;
+  justify-content: center;
+}
+.Search input {
+  width:35%;
+  border-radius: 25px;
+  border: 1px solid lightgray;
+  
+}
 .add-modal {
   position: relative;
   top: 10%;

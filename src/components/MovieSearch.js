@@ -4,7 +4,7 @@ import MovieRating from './MovieRating'
 export default function MovieSearch({setTitleS,setRatingS,ratingS}) {
     return (
         <div>
-            <div>
+            <div className="Search">
         <input
     
           type='text'
