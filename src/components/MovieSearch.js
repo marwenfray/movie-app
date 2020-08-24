@@ -8,7 +8,7 @@ export default function MovieSearch({setTitleS,setRatingS,ratingS}) {
         <input
     
           type='text'
-          placeholder='Type title name to search'
+          placeholder='Type movie title'
           onChange={e =>setTitleS(e.target.value)}
         />
         <MovieRating
