@@ -14,7 +14,7 @@ function App() {
     {title:"Split", genre:"Horror, Thriller", cover:"https://m.media-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_.jpg",rating:4, id:2},
     {title:"Predestination", genre:" Action, Drama, Sci-Fi ", cover:"https://m.media-amazon.com/images/M/MV5BMTAzODc3NjU1NzNeQTJeQWpwZ15BbWU4MDk5NTQ4NTMx._V1_UY1200_CR91,0,630,1200_AL_.jpg",rating:5, id:3},
     {title:"Snowpiercer", genre:"Action, Drama, Sci-Fi", cover:"https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_UY1200_CR89,0,630,1200_AL_.jpg",rating:2, id:4},
-    {title:"Fifty Shades Of Grey", genre:"piece of shit", cover:"https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_.jpg",rating:4, id:5},
+    {title:"Fifty Shades Of Grey", genre:"piece of shit", cover:"https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_.jpg",rating:1, id:5},
     {title:"Harry Potter", genre:" Adventure, Drama, Fantasy", cover:"https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",rating:5, id:6},
     {title:"Mulan", genre:" Action, Adventure, Drama ", cover:"https://m.media-amazon.com/images/M/MV5BNzE2YzBlODItMWE1Ny00MjM2LTg1MjUtYzJiNGExZWMwYmYxXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",rating:3, id:7},
     {title:"Memoirs Of A Geisha", genre:"  Drama, Romance  ", cover:"https://m.media-amazon.com/images/M/MV5BMTYxMzM4NTEzOV5BMl5BanBnXkFtZTcwNDMwNjQzMw@@._V1_.jpg",rating:5, id:8}
