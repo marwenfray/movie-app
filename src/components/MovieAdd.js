@@ -60,7 +60,7 @@ function MovieAdd({ add}) {
       >
         <h1 className="addMovie-h1">Add A Movie</h1>
         <form>
-          <label>Movie Name</label>
+          <label>Movie Title</label>
           <input
             value={inputTitle}
             type="text"
@@ -75,7 +75,7 @@ function MovieAdd({ add}) {
           <label>Movie Genre</label>
           <input
             value={inputGenre}
-            type="number"
+            type="text"
             name="date"
             required
             onChange={(e) => setInputGenre(e.target.value)}
