@@ -64,7 +64,7 @@ function MovieAdd({ add}) {
           <input
             value={inputTitle}
             type="text"
-            name="name"
+            name="title"
             required
             onChange={(e) => setInputTitle(e.target.value)}
           />
@@ -76,7 +76,7 @@ function MovieAdd({ add}) {
           <input
             value={inputGenre}
             type="text"
-            name="date"
+            name="genre"
             required
             onChange={(e) => setInputGenre(e.target.value)}
           />
@@ -84,7 +84,7 @@ function MovieAdd({ add}) {
           <input
             value={inputCover}
             type="url"
-            name="image"
+            name="cover"
             required
             onChange={(e) => setInputCover(e.target.value)}
           />
