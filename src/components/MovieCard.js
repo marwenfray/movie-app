@@ -7,8 +7,8 @@ import MovieRating from './MovieRating'
       
             <img src={cover}/>
             <div>
-            <h1>Title: {title} </h1>
-            <h2>Genre: {genre} </h2>
+            <h2> {title} </h2>
+            <h4>Genre: {genre} </h4>
             <MovieRating rating={rating} />
            </div>
 
